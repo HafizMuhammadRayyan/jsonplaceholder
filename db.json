@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "James Harden",
+      "postText": "Women have been a driving force in all major technology trends, including e-commerce, social media, and hybrid work. And they represent a full 45 percent of esports participants.",
+      "profilePhoto": "https://dstudiosphotography.com/wp-content/uploads/2019/01/Corporate-Headshots-3-square.jpg",
+      "postDate": "12 Dec 2021",
+      "postImage": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2022/m04/Paving_the_Way_for_Women_in_Tech/Paving_the_Way_for_Women_in_Tech_800x450_photo-02B.png"
+    },
+    {
+      "id": 2,
+      "name": "Elisha Cuthbert",
+      "profilePhoto": "https://dycdallas.com/wp-content/uploads/2018/05/McKenna-Yowell-Headshot-Square-1024x1024.jpg",
+      "postDate": "09 feb 2022",
+      "postImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article14379834.ece/ALTERNATES/s615/050318_LRR_MEN_WomenTech.jpg",
+      "postText": "Artificial intelligence allows machines to model, and even improve upon, the capabilities of the human mind. From the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is a growing part of everyday life. As a result, many tech companies across various industries are investing in artificially intelligent technologies."
+    },
+    {
+      "id": 3,
+      "name": "Thomas",
+      "profilePhoto": "https://static8.depositphotos.com/1377527/930/i/600/depositphotos_9305412-stock-photo-businessman.jpg",
+      "postDate": "22 Aug 2022",
+      "postImage": "https://cdn.rea-group.com/wp-content/uploads/2018/04/24105648/Job-4.jpg",
+      "postText": "The guides area is designed to help developers learn to better interact with the date and time problem domain, and the Moment.js library. We address our most frequently seen support requests here, so it is a great place to check for solutions to any issues you may have."
+    },
+    {
+      "id": 4,
+      "name":"Inzamam Malik",
+      "profilePhoto":"https://pbs.twimg.com/profile_images/1374827881466052608/wOAoLj9__400x400.jpg",
+      "postDate":"26 Nov 2019",
+      "postImage":"https://pbs.twimg.com/media/EKTbwQDUUAAoTi1.jpg:large",
+      "postText":"AI Chatbots - beyond the hype: Muhammad Inzamam Malik talks about how enterprises can successfully deploy effective chatbots."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
